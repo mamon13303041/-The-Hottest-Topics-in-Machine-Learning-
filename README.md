@@ -1,12 +1,13 @@
 # -The-Hottest-Topics-in-Machine-Learning-GUIDED
 ![image](https://user-images.githubusercontent.com/90421922/203404166-08aebf04-2f30-4fa6-8360-3111d0d27667.png)
-Project Description
+
+#Project Description
 
 Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking work is published. In this Project, you will analyze a large collection of NIPS research papers from the past decade to discover the latest trends in machine learning. The techniques used here to handle large amounts of data can be applied to other text datasets as well.
 
 Familiarity with Python and pandas is required to complete this Project, as well as experience with Natural Language Processing in Python (sklearn specifically).
 
-Project Tasks
+#Project Tasks
 
 1. Loading the NIPS papers
 2. Preparing the data for analysis
